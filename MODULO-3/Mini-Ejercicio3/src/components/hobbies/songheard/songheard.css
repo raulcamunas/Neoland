@@ -1,0 +1,8 @@
+.songheard-card{
+    background-color: rgb(45, 226, 223);
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+}
